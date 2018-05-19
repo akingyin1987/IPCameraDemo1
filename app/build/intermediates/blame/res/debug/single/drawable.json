@@ -1,0 +1,378 @@
+[
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\soundenable.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\soundenable.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_osd.xml",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\background_osd.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ptz_brightness_selector.xml",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\ptz_brightness_selector.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_loct.xml",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\button_loct.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sound_line.bmp",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\sound_line.bmp"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pause.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\pause.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\del.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\del.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\listitem_pressed_bottom_corner_selector.xml",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\listitem_pressed_bottom_corner_selector.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_separate_vertical.xml",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\background_separate_vertical.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkphone_selector.xml",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\checkphone_selector.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\close_selector.xml",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\close_selector.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sound_line1.bmp",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\sound_line1.bmp"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ptz_takevideo_selector.xml",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\ptz_takevideo_selector.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\9de9a1d01881a87d91576959e8066d66\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video_play_play_selector.xml",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\video_play_play_selector.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\play.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\play.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stepforward.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\stepforward.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_silver_light.xml",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\background_silver_light.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_white_corner.xml",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\background_white_corner.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video_play_right_selector.xml",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\video_play_right_selector.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\listitem_pressed_top_corner_selector.xml",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\listitem_pressed_top_corner_selector.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector.xml",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\button_selector.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_search_add_corner.xml",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\main_search_add_corner.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sounddisable.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\sounddisable.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\style_image_border.xml",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\style_image_border.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bottle_night_bg.jpg",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\bottle_night_bg.jpg"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vidicon_selector.xml",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\vidicon_selector.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\listitem_one_pressed.xml",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\listitem_one_pressed.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\customprogress.xml",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\customprogress.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\addvidiconshape.xml",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\addvidiconshape.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\myseekbar.xml",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\myseekbar.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\about_text_bg.xml",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\about_text_bg.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btnselector.xml",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\btnselector.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\9de9a1d01881a87d91576959e8066d66\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\localpic_selector.xml",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\localpic_selector.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_light.xml",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stepbackward.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\stepbackward.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\brightcontrastprogress.xml",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\brightcontrastprogress.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_image.xml",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\background_image.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\listitem_one_pressed_selector.xml",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\listitem_one_pressed_selector.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\9de9a1d01881a87d91576959e8066d66\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_grayblack.xml",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\background_grayblack.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rightdown_selector.xml",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\rightdown_selector.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\listitem_pressed_selector.xml",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\listitem_pressed_selector.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ptz_takepic_selector.xml",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\ptz_takepic_selector.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_back_selector.xml",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\btn_back_selector.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add_btn_selector.xml",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\add_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eject.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\eject.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video_play_pause_selector.xml",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\video_play_pause_selector.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_dark.xml",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\listitem_pressed_bottom_corner.xml",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\listitem_pressed_bottom_corner.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mainsetting_dialog_frame.xml",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\mainsetting_dialog_frame.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_silver.xml",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\background_silver.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\9de9a1d01881a87d91576959e8066d66\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video_play_left_selector.xml",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\video_play_left_selector.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\listitem_pressed_top_corner.xml",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\listitem_pressed_top_corner.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\listitem_bg_selector.xml",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\listitem_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\contanct.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable\\contanct.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable\\abc_btn_colored_material.xml"
+    }
+]

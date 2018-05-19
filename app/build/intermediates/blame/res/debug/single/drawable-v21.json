@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\9de9a1d01881a87d91576959e8066d66\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable-v21\\abc_edit_text_material.xml"
+    }
+]

@@ -1,0 +1,638 @@
+[
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_play_left_normal.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\video_play_left_normal.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\info.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\info.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\one.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\one.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\order_details_bg.9.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\order_details_bg.9.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rightdown.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\rightdown.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_album_inverse.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_album_inverse.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_alarm.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\main_alarm.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ptz_playmode_fullscreen.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\ptz_playmode_fullscreen.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ptz_resolution_qvga.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\ptz_resolution_qvga.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__spinner_ab_default_holo_light.9.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\abs__spinner_ab_default_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ptz_resolution_720p.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\ptz_resolution_720p.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_edit_camera.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\ic_edit_camera.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ptz_default_set.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\ptz_default_set.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\check_top_tab_pressed.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\check_top_tab_pressed.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal.9.png",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\9de9a1d01881a87d91576959e8066d66\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_setting_camera.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\ic_setting_camera.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sos.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\sos.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\app.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\9de9a1d01881a87d91576959e8066d66\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add_btn_pressed.9.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\add_btn_pressed.9.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ptz_takevideo.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\ptz_takevideo.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\up.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\up.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\toptitle.9.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\toptitle.9.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ptz_audio_off.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\ptz_audio_off.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\9de9a1d01881a87d91576959e8066d66\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bad_video.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\bad_video.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\about.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\about.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkmiddle_pressed.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\checkmiddle_pressed.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_gpio.jpg",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\icon_gpio.jpg"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ptz_vert_mirror.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\ptz_vert_mirror.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ptz_microphone_on.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\ptz_microphone_on.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ptz_microphone_off.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\ptz_microphone_off.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_back_normal.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\btn_back_normal.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ptz_center.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\ptz_center.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ptz_takepic.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\ptz_takepic.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\9de9a1d01881a87d91576959e8066d66\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ptz_contrast.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\ptz_contrast.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\emoji.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkmiddle_normal.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\checkmiddle_normal.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\arrowdown.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\arrowdown.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\detailpanel_bg.9.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\detailpanel_bg.9.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pic_defulte.9.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\pic_defulte.9.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mic.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\mic.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add_btn_normal.9.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\add_btn_normal.9.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ptz_takevideo_pressed.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\ptz_takevideo_pressed.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\close_press.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\close_press.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_video.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\main_video.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_bottomtab_bg_pressed.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\main_bottomtab_bg_pressed.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\arrow.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\arrow.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_play_right_pressed.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\video_play_right_pressed.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_rec.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\icon_rec.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ptz_resolution_vga.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\ptz_resolution_vga.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\grid_bg.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\grid_bg.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_video.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\play_video.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ptz_vert_tour.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\ptz_vert_tour.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkright_normal.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\checkright_normal.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refresh.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\refresh.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_back_pressed.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\btn_back_pressed.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_pressed.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\btn_pressed.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_bg_down.9.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\menu_bg_down.9.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ptz_hori_tour.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\ptz_hori_tour.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\back_play.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\back_play.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\seekprogress.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\seekprogress.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkright_pressed.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\checkright_pressed.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\exit.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\exit.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkphone_pressed.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\checkphone_pressed.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_default.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\video_default.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\9de9a1d01881a87d91576959e8066d66\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_right_menu.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\main_right_menu.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ptz_hori_mirror.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\ptz_hori_mirror.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_loction_press.9.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\button_loction_press.9.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_picture.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\main_picture.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_bg_blue.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\top_bg_blue.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vidicon.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\vidicon.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_play_play_pressed.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\video_play_play_pressed.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vidicon_bottom.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\vidicon_bottom.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\close_no.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\close_no.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_addcamera_normal.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\main_addcamera_normal.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checktopleft_pressed.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\checktopleft_pressed.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vidicon_add.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\vidicon_add.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_bg.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\top_bg.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rightdown_pressed.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\rightdown_pressed.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\seekbg.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\seekbg.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_normal.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\btn_normal.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_delete_camera.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\ic_delete_camera.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_play_right_normal.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\video_play_right_normal.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_play_play_normal.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\video_play_play_normal.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_play_left_pressed.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\video_play_left_pressed.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\del_hook.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\del_hook.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alarm_log_bg.9.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\alarm_log_bg.9.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_bottom_bg.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\main_bottom_bg.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\left.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\left.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_motion.jpg",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\icon_motion.jpg"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_play_pause_normal.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\video_play_pause_normal.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkphone_normal.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\checkphone_normal.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\top.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edit_bg.9.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\edit_bg.9.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ptz_audio_on.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\ptz_audio_on.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bottom.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\bottom.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\right.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\right.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_loction_nor.9.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\button_loction_nor.9.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\picture_default.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\picture_default.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ptz_playmode_standard.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\ptz_playmode_standard.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\down.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\down.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_play_pause_pressed.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\video_play_pause_pressed.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\exitbutton.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\exitbutton.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\add.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash.9.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\splash.9.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ptz_brightness.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\ptz_brightness.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkleft_normal.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\checkleft_normal.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ptz_playmode_enlarge.png",
+        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\drawable-hdpi\\ptz_playmode_enlarge.png"
+    }
+]

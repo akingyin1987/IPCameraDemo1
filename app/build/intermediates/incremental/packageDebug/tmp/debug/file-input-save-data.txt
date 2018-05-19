@@ -1,0 +1,31 @@
+#Internal package file, do not edit.
+#Sat May 19 13:09:49 CST 2018
+2.base=E\:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0
+5.set=DEX
+0.path=lib/armeabi-v7a/libvstc2_jni.so
+2.baseType=DIRECTORY
+3.base=E\:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0
+2.set=NATIVE_RESOURCE
+1.path=lib/armeabi-v7a/libavi_utils.so
+4.base=E\:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0
+count=7
+5.baseType=DIRECTORY
+2.path=lib/armeabi/libavi_utils.so
+5.base=E\:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+4.set=NATIVE_RESOURCE
+3.path=lib/armeabi/libvstc2_jni.so
+6.base=E\:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0
+3.baseType=DIRECTORY
+1.set=NATIVE_RESOURCE
+4.path=lib/armeabi/libffmpeg.so
+6.set=NATIVE_RESOURCE
+1.baseType=DIRECTORY
+6.baseType=DIRECTORY
+5.path=classes.dex
+0.base=E\:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0
+0.baseType=DIRECTORY
+3.set=NATIVE_RESOURCE
+6.path=lib/armeabi-v7a/libffmpeg.so
+1.base=E\:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0
+4.baseType=DIRECTORY
+0.set=NATIVE_RESOURCE

@@ -1,106 +1,98 @@
 [
     {
-        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\anim\\abc_fade_out.xml"
+        "merged": "E:\\androidApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\ptz_top_anim_show.xml",
+        "source": "E:\\androidApp\\IPCameraDemo1\\app\\src\\main\\res\\anim\\ptz_top_anim_show.xml"
     },
     {
-        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\menu_dismiss.xml",
-        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\anim\\menu_dismiss.xml"
+        "merged": "E:\\androidApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\out_to_left.xml",
+        "source": "E:\\androidApp\\IPCameraDemo1\\app\\src\\main\\res\\anim\\out_to_left.xml"
     },
     {
-        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\in_from_right.xml",
-        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\anim\\in_from_right.xml"
+        "merged": "E:\\androidApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13a02debdd5e5e83765c64cf6ce349ee34dad3b5\\output\\res\\anim\\abc_popup_exit.xml"
     },
     {
-        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\ptz_otherset_anim_dismiss.xml",
-        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\anim\\ptz_otherset_anim_dismiss.xml"
+        "merged": "E:\\androidApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13a02debdd5e5e83765c64cf6ce349ee34dad3b5\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\in_from_left.xml",
-        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\anim\\in_from_left.xml"
+        "merged": "E:\\androidApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\splash_anim.xml",
+        "source": "E:\\androidApp\\IPCameraDemo1\\app\\src\\main\\res\\anim\\splash_anim.xml"
     },
     {
-        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\out_to_right.xml",
-        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\anim\\out_to_right.xml"
+        "merged": "E:\\androidApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\ptz_top_anim_dismiss.xml",
+        "source": "E:\\androidApp\\IPCameraDemo1\\app\\src\\main\\res\\anim\\ptz_top_anim_dismiss.xml"
     },
     {
-        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\anim\\abc_slide_out_top.xml"
+        "merged": "E:\\androidApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13a02debdd5e5e83765c64cf6ce349ee34dad3b5\\output\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
-        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\anim\\abc_slide_in_bottom.xml"
+        "merged": "E:\\androidApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\ptz_otherset_anim_show.xml",
+        "source": "E:\\androidApp\\IPCameraDemo1\\app\\src\\main\\res\\anim\\ptz_otherset_anim_show.xml"
     },
     {
-        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\anim\\abc_popup_exit.xml"
+        "merged": "E:\\androidApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\in_from_left.xml",
+        "source": "E:\\androidApp\\IPCameraDemo1\\app\\src\\main\\res\\anim\\in_from_left.xml"
     },
     {
-        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\menu_show.xml",
-        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\anim\\menu_show.xml"
+        "merged": "E:\\androidApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\in_from_right.xml",
+        "source": "E:\\androidApp\\IPCameraDemo1\\app\\src\\main\\res\\anim\\in_from_right.xml"
     },
     {
-        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+        "merged": "E:\\androidApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13a02debdd5e5e83765c64cf6ce349ee34dad3b5\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\ptz_top_anim_dismiss.xml",
-        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\anim\\ptz_top_anim_dismiss.xml"
+        "merged": "E:\\androidApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\out_to_right.xml",
+        "source": "E:\\androidApp\\IPCameraDemo1\\app\\src\\main\\res\\anim\\out_to_right.xml"
     },
     {
-        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_tooltip_enter.xml",
-        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\anim\\abc_tooltip_enter.xml"
+        "merged": "E:\\androidApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13a02debdd5e5e83765c64cf6ce349ee34dad3b5\\output\\res\\anim\\abc_popup_enter.xml"
     },
     {
-        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_tooltip_exit.xml",
-        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\anim\\abc_tooltip_exit.xml"
+        "merged": "E:\\androidApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13a02debdd5e5e83765c64cf6ce349ee34dad3b5\\output\\res\\anim\\abc_slide_in_top.xml"
     },
     {
-        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\anim\\abc_slide_out_bottom.xml"
+        "merged": "E:\\androidApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoomin.xml",
+        "source": "E:\\androidApp\\IPCameraDemo1\\app\\src\\main\\res\\anim\\zoomin.xml"
     },
     {
-        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\splash_anim.xml",
-        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\anim\\splash_anim.xml"
+        "merged": "E:\\androidApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13a02debdd5e5e83765c64cf6ce349ee34dad3b5\\output\\res\\anim\\abc_slide_out_top.xml"
     },
     {
-        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\ptz_otherset_anim_show.xml",
-        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\anim\\ptz_otherset_anim_show.xml"
+        "merged": "E:\\androidApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoomout.xml",
+        "source": "E:\\androidApp\\IPCameraDemo1\\app\\src\\main\\res\\anim\\zoomout.xml"
     },
     {
-        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoomin.xml",
-        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\anim\\zoomin.xml"
+        "merged": "E:\\androidApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13a02debdd5e5e83765c64cf6ce349ee34dad3b5\\output\\res\\anim\\abc_fade_out.xml"
     },
     {
-        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\ptz_top_anim_show.xml",
-        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\anim\\ptz_top_anim_show.xml"
+        "merged": "E:\\androidApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\ptz_otherset_anim_dismiss.xml",
+        "source": "E:\\androidApp\\IPCameraDemo1\\app\\src\\main\\res\\anim\\ptz_otherset_anim_dismiss.xml"
     },
     {
-        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\out_to_left.xml",
-        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\anim\\out_to_left.xml"
+        "merged": "E:\\androidApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\ptz_otherset_anim.xml",
+        "source": "E:\\androidApp\\IPCameraDemo1\\app\\src\\main\\res\\anim\\ptz_otherset_anim.xml"
     },
     {
-        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+        "merged": "E:\\androidApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\menu_dismiss.xml",
+        "source": "E:\\androidApp\\IPCameraDemo1\\app\\src\\main\\res\\anim\\menu_dismiss.xml"
     },
     {
-        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoomout.xml",
-        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\anim\\zoomout.xml"
+        "merged": "E:\\androidApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13a02debdd5e5e83765c64cf6ce349ee34dad3b5\\output\\res\\anim\\abc_fade_in.xml"
     },
     {
-        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\anim\\abc_fade_in.xml"
+        "merged": "E:\\androidApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\menu_show.xml",
+        "source": "E:\\androidApp\\IPCameraDemo1\\app\\src\\main\\res\\anim\\menu_show.xml"
     },
     {
-        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\anim\\abc_popup_enter.xml"
-    },
-    {
-        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\ptz_otherset_anim.xml",
-        "source": "E:\\StudioApp\\IPCameraDemo1\\app\\src\\main\\res\\anim\\ptz_otherset_anim.xml"
-    },
-    {
-        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\anim\\abc_slide_in_top.xml"
+        "merged": "E:\\androidApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13a02debdd5e5e83765c64cf6ce349ee34dad3b5\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     }
 ]

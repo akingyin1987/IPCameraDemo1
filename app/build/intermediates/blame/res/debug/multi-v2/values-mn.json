@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\values-mn\\values-mn.xml",
+            "outputFile": "E:\\androidApp\\IPCameraDemo1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mn\\values-mn.xml",
             "map": [
                 {
-                    "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\9de9a1d01881a87d91576959e8066d66\\res\\values-mn\\values-mn.xml",
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\e0cf20074bc3cecb83fd36afd609bd08\\res\\values-mn\\values-mn.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,39 +21,7 @@
                     }
                 },
                 {
-                    "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\values-mn\\values-mn.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,218,318,431,518,624,736,818,900,982,1091,1195,1292,1400,1501,1604,1763,1860",
-                        "endColumns": "112,99,112,86,105,111,81,81,81,108,103,96,107,100,102,158,96,80",
-                        "endOffsets": "213,313,426,513,619,731,813,895,977,1086,1190,1287,1395,1496,1599,1758,1855,1936"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mn\\values-mn.xml",
-            "map": [
-                {
-                    "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\9de9a1d01881a87d91576959e8066d66\\res\\values-mn\\values-mn.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "1941",
-                        "endColumns": "100",
-                        "endOffsets": "2037"
-                    }
-                },
-                {
-                    "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\values-mn\\values-mn.xml",
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\ff9fa39150818f3935208d4c2d4b6865\\res\\values-mn\\values-mn.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

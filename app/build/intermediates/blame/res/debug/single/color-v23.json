@@ -1,38 +1,42 @@
 [
     {
-        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
-        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+        "merged": "E:\\androidApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13a02debdd5e5e83765c64cf6ce349ee34dad3b5\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
-        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\color-v23\\abc_tint_spinner.xml"
+        "merged": "E:\\androidApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13a02debdd5e5e83765c64cf6ce349ee34dad3b5\\output\\res\\color-v23\\abc_tint_switch_track.xml"
     },
     {
-        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
-        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\color-v23\\abc_tint_btn_checkable.xml"
+        "merged": "E:\\androidApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13a02debdd5e5e83765c64cf6ce349ee34dad3b5\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
-        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\color-v23\\abc_color_highlight_material.xml"
+        "merged": "E:\\androidApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13a02debdd5e5e83765c64cf6ce349ee34dad3b5\\output\\res\\color-v23\\abc_btn_colored_text_material.xml"
     },
     {
-        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
-        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\color-v23\\abc_tint_default.xml"
+        "merged": "E:\\androidApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13a02debdd5e5e83765c64cf6ce349ee34dad3b5\\output\\res\\color-v23\\abc_color_highlight_material.xml"
     },
     {
-        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
-        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\color-v23\\abc_btn_colored_text_material.xml"
+        "merged": "E:\\androidApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13a02debdd5e5e83765c64cf6ce349ee34dad3b5\\output\\res\\color-v23\\abc_tint_switch_thumb.xml"
     },
     {
-        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
-        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\color-v23\\abc_tint_seek_thumb.xml"
+        "merged": "E:\\androidApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13a02debdd5e5e83765c64cf6ce349ee34dad3b5\\output\\res\\color-v23\\abc_tint_spinner.xml"
     },
     {
-        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
-        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\color-v23\\abc_tint_edittext.xml"
+        "merged": "E:\\androidApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13a02debdd5e5e83765c64cf6ce349ee34dad3b5\\output\\res\\color-v23\\abc_tint_default.xml"
     },
     {
-        "merged": "E:\\StudioApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
-        "source": "E:\\Config\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cecec1c740b69035aaa355ebc10d9f8\\res\\color-v23\\abc_tint_switch_track.xml"
+        "merged": "E:\\androidApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13a02debdd5e5e83765c64cf6ce349ee34dad3b5\\output\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "E:\\androidApp\\IPCameraDemo1\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13a02debdd5e5e83765c64cf6ce349ee34dad3b5\\output\\res\\color-v23\\abc_tint_btn_checkable.xml"
     }
 ]

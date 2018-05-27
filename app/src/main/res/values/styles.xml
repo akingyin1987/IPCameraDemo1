@@ -26,5 +26,5 @@
         <item name="android:windowEnterAnimation">@anim/zoomin</item>
         <item name="android:windowExitAnimation">@anim/zoomout</item>
     </style>
-
+    <style name="AppBaseTheme" parent="android:Theme.Light.NoTitleBar"/>
 </resources>

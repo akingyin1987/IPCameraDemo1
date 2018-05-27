@@ -1,5 +1,7 @@
 package com.ipcamer.demo;
 
+import java.io.IOException;
+import java.util.List;
 import java.util.Map;
 import java.util.TimerTask;
 
@@ -33,6 +35,10 @@ import android.widget.Toast;
 
 import com.ipcamer.demo.BridgeService.AddCameraInterface;
 import com.ipcamer.demo.BridgeService.IpcamClientInterface;
+import com.ipcamer.demo.webcam.WebCamBean;
+import com.ipcamer.demo.webcam.WebCamFinder;
+
+import net.reecam.IpCamera;
 
 public class AddCameraActivity extends Activity implements OnClickListener,
 		AddCameraInterface, OnItemSelectedListener, IpcamClientInterface {
@@ -136,6 +142,7 @@ public class AddCameraActivity extends Activity implements OnClickListener,
 		requestWindowFeature(Window.FEATURE_NO_TITLE);
 		setContentView(R.layout.add_camera);
 		Intent in = getIntent();
+
 		//创建搜索进度框
 		progressdlg = new ProgressDialog(this);
 		progressdlg.setProgressStyle(ProgressDialog.STYLE_SPINNER);
@@ -313,7 +320,19 @@ public class AddCameraActivity extends Activity implements OnClickListener,
 		public void run() {
 			Log.d("tag", "startSearch");
 			//本地调用开始搜索方法
-			NativeCaller.StartSearch();
+
+		//	NativeCaller.StartSearch();
+			WebCamFinder  webCamFinder = new WebCamFinder();
+			try {
+				System.out.println("-------------------");
+				List<WebCamBean> webCamBeans =webCamFinder.findList();
+				for (WebCamBean webCamBean : webCamBeans) {
+					System.out.println(webCamBean.toString());
+				}
+				System.out.println("------size--"+webCamBeans.size());
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
 		}
 	}
 

@@ -82,6 +82,7 @@
                         android:layout_marginRight="5dp"
                         android:layout_weight="1"
                         android:maxLength="64"
+                        android:text="0022343421F1"
                         android:singleLine="true" />
                 </LinearLayout>
 

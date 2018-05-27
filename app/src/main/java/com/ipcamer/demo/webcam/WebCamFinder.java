@@ -242,6 +242,7 @@ public class WebCamFinder {
                 for(WebCamBean webCamBean: foundList) {
                     System.out.println(webCamBean);
                 }
+                System.out.println("size="+foundList.size());
             }
             else {
                 String originalIP = null;

@@ -1,0 +1,37 @@
+ext.versions = [
+    minSdk            : 15,
+    compileSdk        : 25,
+    buildTools        : '25.0.3',
+    publishVersion    : '0.9.4.7',
+    publishVersionCode: 177,
+
+    supportLib        : '25.3.1',
+    mdProgressBar     : '1.4.1',
+
+    butterKnife       : '8.8.1',
+
+    rxjava2           :  '2.1.3',
+    rxAndroid         :  '2.0.1',
+    okHttpVersion     :  '3.9.0',
+    daggerVersion     :  '2.11',
+    leakCanaryVersion : '1.5.2',
+    retrofitVersion   :'2.3.0',
+
+    stethoVersion     : '1.5.0',
+
+    materialDialogsVersion : '0.9.4.3',
+    ToastyVersion :'1.2.5',
+    adapterVersion :'2.9.22',
+    greendaoVersion : '3.2.2',
+
+    fastjsonVersion:'1.1.63.android',
+
+    mockitoVersion : '1.10.19',
+    powerMockito : '1.6.2',
+    hamcrestVersion : '1.3',
+    runnerVersion :'0.5',
+    rulesVersion :'0.5',
+    espressoVersion : '2.2.2'
+
+]
+
